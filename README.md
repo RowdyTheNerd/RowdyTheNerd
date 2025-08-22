@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @RowdyTheNerd
-- 👀 I’m interested in MEN
-- 🌱 I’m currently learning godot
-- 💞️ I’m looking to collaborate on nothing
+- 🌱 I’m currently learning python
 - 📫 How to reach me rowdythenerd@gmail.com
 - 😄 Pronouns: they/he/she
-- ⚡ Fun fact: im pregnant
+- ⚡ Fun fact: im left handed 
 
 <!---
 RowdyTheNerd/RowdyTheNerd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
